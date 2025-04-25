@@ -18,3 +18,6 @@ Sinta-se à vontade para explorar meus repositórios ou entrar em contato!
 
 ---
 “O importante não é onde você está, e sim para onde quer chegar.”
+
+<div>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomunhoz1)](https://github.com/anuraghazra/github-readme-stats)
