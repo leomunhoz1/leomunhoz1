@@ -19,5 +19,8 @@ Sinta-se à vontade para explorar meus repositórios ou entrar em contato!
 ---
 “O importante não é onde você está, e sim para onde quer chegar.”
 
-<div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomunhoz1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomunhoz1&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomunhoz1&show_icons&theme=dark)](https://github.com/leomunhoz1/github-readme-stats)
+
+[<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/>](https:/www.linkedin.com/in/leomunhoz/)
+ [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="48"/>](leofranciscomunhoz@gmail.com)
